@@ -90,9 +90,3 @@ Create or modify an S3 bucket (e.g., test-config-5555555) with public access ena
 To destroy all resources and avoid charges:
 ```terraform destroy```
 Type yes to confirm.
-
-Contributing
-Feel free to submit issues or pull requests to improve this setup.
-
-License
-[MIT License] - See LICENSE file for details.
