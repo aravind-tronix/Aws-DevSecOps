@@ -4,6 +4,8 @@ This repository contains a Terraform configuration to set up an AWS Config strea
 
 ## Overview
 
+![aws config arch](https://raw.githubusercontent.com/aravind-tronix/Aws-DevSecOps/refs/heads/main/aws-config.png)
+
 - Purpose: Monitor S3 buckets for public access and automatically remediate noncompliant buckets by enabling Public Access Block settings.
 - Components:
   - S3 bucket for Config delivery with SSE-S3 encryption.
